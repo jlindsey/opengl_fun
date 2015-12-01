@@ -35,8 +35,13 @@
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
-Makefile
+#Makefile
 cmake_install.cmake
 install_manifest.txt
 
-out/
+### Project ###
+logs/*.log
+.ycm_extra_conf*
+.color_coded
+build/
+
